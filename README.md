@@ -10,5 +10,7 @@
 ---
 
 ### ✍️ Posts
-* [post-1](http://xden.dev)
+* [$title]($url)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ---
