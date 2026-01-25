@@ -3,6 +3,14 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blog-post-workflow
+  cancel-in-progress: true
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -11,4 +19,4 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://xden.dev/posts/index.xml" 
+          feed_list: "https://xden.dev/posts/index.xml"
