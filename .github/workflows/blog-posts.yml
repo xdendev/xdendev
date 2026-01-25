@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://xden.dev/blog/index.xml" 
+          feed_list: "https://xden.dev/posts/index.xml" 
