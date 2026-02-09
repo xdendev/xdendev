@@ -1,16 +1,21 @@
 # Whats Up developer! Iam Den 👋
 
 ### 👨‍💻 Software Engineer
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ruby" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/> </a></p>
+
+[![go](https://skillicons.dev/icons?i=go)](https://developer.mozilla.org/en-US/docs/Web/go)   [![javascript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/javascript)   [![php](https://skillicons.dev/icons?i=php)](https://developer.mozilla.org/en-US/docs/Web/php)   [![python](https://skillicons.dev/icons?i=py)](https://developer.mozilla.org/en-US/docs/Web/python)   [![ruby](https://skillicons.dev/icons?i=ruby)](https://developer.mozilla.org/en-US/docs/Web/ruby)
+
 ---
 
 ### 🚀 My cases
+
 * **[DD CMS]** — Telegram Bot CMS
 * todo
+
 ---
 
-### ✍️ Posts
-* [$title]($url)
+### ✍️ Latest Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 ---
