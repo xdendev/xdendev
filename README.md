@@ -15,8 +15,7 @@
 
 ### ✍️ Latest Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [DDOS Заказы в опасности](https://xden.dev/posts/cases/ddos/) - 
+<!-- BLOG-POST-LIST:START -->- [DDOS Заказы в опасности](https://xden.dev/posts/cases/ddos/) - 
 - [OPENGATES BOT V.1.0](https://xden.dev/posts/post-01/) - 
 - [PHP OPCode, OPCache](https://xden.dev/posts/post-02/) - 
 <!-- BLOG-POST-LIST:END -->
