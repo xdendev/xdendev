@@ -29,7 +29,7 @@ jobs:
           # Максимальное количество постов для отображения
           max_post_count: 15
           # Формат отображения постов
-          template: "- [$title]($url) - $newline"
+          template: " $newline - [$title]($url)"
           # Комментарий для начала секции с постами в README
           comment_tag_name: "BLOG-POST-LIST"
           # Коммит изменений
