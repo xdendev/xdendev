@@ -1,4 +1,5 @@
 name: Latest blog post workflow
+
 on:
   schedule:
     - cron: '0 * * * *'
@@ -13,10 +14,25 @@ concurrency:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Update README with blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          # URL вашей RSS ленты Hugo
           feed_list: "https://xden.dev/posts/index.xml"
+          # Максимальное количество постов для отображения
+          max_post_count: 15
+          # Формат отображения постов
+          template: "- [$title]($url) - $newline"
+          # Комментарий для начала секции с постами в README
+          comment_tag_name: "BLOG-POST-LIST"
+          # Коммит изменений
+          commit_message: "Updated with latest blog posts"
+          committer_username: "blog-post-bot"
+          committer_email: "blog-post-bot@example.com"
