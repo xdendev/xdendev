@@ -16,7 +16,9 @@
 ### ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
- - [DDOS Заказы в опасности](https://xden.dev/posts/cases/ddos/)
+ - [SAFE WEB SCRAPING - Как безопасно парсить сайты и не получить бан](https://xden.dev/posts/post-0/)
+ - [Управление нодой через бота](https://xden.dev/posts/post-03/)
  - [OPENGATES BOT V.1.0](https://xden.dev/posts/post-01/)
- - [PHP OPCode, OPCache](https://xden.dev/posts/post-02/)<!-- BLOG-POST-LIST:END -->
+ - [PHP OPCode, OPCache](https://xden.dev/posts/post-02/)
+ - [How I Learned to Stop Procrastinating, &amp; Love Letting Go](https://xden.dev/posts/post-3/)<!-- BLOG-POST-LIST:END -->
 ---
