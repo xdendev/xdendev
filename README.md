@@ -1,4 +1,4 @@
-# Whats Up developer! Iam Den 👋
+# Whats Up developer! I Den 👋
 
 ### 👨‍💻 Software Engineer
 
