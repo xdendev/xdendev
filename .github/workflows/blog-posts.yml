@@ -20,6 +20,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Test feed reachability
+        run: curl -I --max-time 30 https://xden.dev/posts/index.xml
       
       - name: Update README with blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
